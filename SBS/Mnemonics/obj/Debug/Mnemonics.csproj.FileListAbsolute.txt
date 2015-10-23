@@ -1,0 +1,5 @@
+D:\CSE545\SBSv2\SBS\Mnemonics\bin\Debug\Mnemonics.dll
+D:\CSE545\SBSv2\SBS\Mnemonics\bin\Debug\Mnemonics.pdb
+D:\CSE545\SBSv2\SBS\Mnemonics\obj\Debug\Mnemonics.csprojResolveAssemblyReference.cache
+D:\CSE545\SBSv2\SBS\Mnemonics\obj\Debug\Mnemonics.dll
+D:\CSE545\SBSv2\SBS\Mnemonics\obj\Debug\Mnemonics.pdb
