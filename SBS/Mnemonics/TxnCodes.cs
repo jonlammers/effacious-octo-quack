@@ -18,5 +18,7 @@ namespace Mnemonics
         public static String TX_INT_TRANSFER = "017";
         public static String TX_INT_HIVAL_TRANSFER = "018";
         public static String TX_EXT_TRANSFER = "019";
+        public static String TX_TRANSFER = "020";
+        public static String TX_UPDATE_PROFILE = "021";
     }
 }

@@ -10,7 +10,7 @@ namespace Data
 {
     public static class CstmD
     {
-        public static Cstm Read(string connectionString, string id)
+        public static Cstm Read(string connectionString, string id, Dber dberr)
         {
             try
             {
@@ -59,7 +59,7 @@ namespace Data
             }
         }
 
-        public static DataSet ReadAll(string connectionString)
+        public static DataSet ReadAll(string connectionString, Dber dberr)
         {
             throw new NotImplementedException();
 
@@ -70,17 +70,17 @@ namespace Data
 
         }
 
-        public static int Create(string connectionString, Cstm dataObject)
+        public static int Create(string connectionString, Cstm dataObject, Dber dberr)
         {
             throw new NotImplementedException();
         }
 
-        public static bool Update(string connectionString, Cstm dataObject)
+        public static bool Update(string connectionString, Cstm dataObject, Dber dberr)
         {
             throw new NotImplementedException();
         }
 
-        public static bool Delete(string connectionString, string id)
+        public static bool Delete(string connectionString, string id, Dber dberr)
         {
             throw new NotImplementedException();
         }

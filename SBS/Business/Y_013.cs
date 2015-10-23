@@ -22,7 +22,7 @@ namespace Business
         Data.Dber dberr;
         Decimal changeAmount;
         Privilege pvg;
-        String loginAcc;
+        //String loginAcc;
         Boolean newInitiator = false;
         public Y_013(String txid, String connectionString, String ac1, String ac2, Decimal amount, String loginAc)
         {

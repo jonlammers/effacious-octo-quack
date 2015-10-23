@@ -19,7 +19,7 @@ namespace UI
         {
             try
             {
-                Business.XSwitch tran = new Business.XSwitch(Global.ConnectionString, "010|1");
+                Business.XSwitch tran = new Business.XSwitch(Global.ConnectionString, "010|1", "1");
                 TextBox1.Text = tran.resultP;
             }
             catch (Exception ex)
